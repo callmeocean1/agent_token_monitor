@@ -1,0 +1,3 @@
+9c780c72b4bf56ce7cd7d48abcce3ee6b972a731146d62c8aba63fac292139ce *Token-Monitor-Setup-0.86.0.exe
+087d81b3c96d28b3ce083858c0b8b398df3d13a10ced553aa59780ae1e57a087 *Token-Monitor-0.86.0.exe
+56d0c3944d73d7d16274d649e884480529e4c05ff57f5b6718d6ad25f0409ffd *TokenMonitor-Mini-v1.0.0.1-win64-portable.zip
